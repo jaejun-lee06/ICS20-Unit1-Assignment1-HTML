@@ -3,9 +3,7 @@ body {
 }
 
 .page {
-  padding-top: 10px;
   padding-right: 450px;
-  padding-bottom: 10px;
   padding-left: 450px;
 }
 
@@ -36,7 +34,6 @@ body {
   background-color: cornflowerblue;
   color: white;
   padding: 10px;
-  margin: 0px;
   text-align: center;
 }
 
@@ -44,6 +41,7 @@ p {
   font-size: 17px;
   margin: 10px;
 }
+
 .quote {
   text-align: center;
 }
